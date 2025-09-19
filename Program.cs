@@ -1,4 +1,7 @@
 
+using backend.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace backend
 {
     public class Program
@@ -6,6 +9,11 @@ namespace backend
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+            builder.Services.AddDbContext<DemirelGroupDBContext>(options =>
+                options.UseSqlServer(connectionString));
 
             // Add services to the container.
 
