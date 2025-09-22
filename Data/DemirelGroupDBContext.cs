@@ -9,5 +9,6 @@ namespace backend.Data
 
         public DbSet<Project> Projects { get; set; }
         public DbSet<ProjectPhoto> ProjectPhotos { get; set; }
+        public DbSet<CompanyInformation> CompanyInformation { get; set; }
     }
 }
