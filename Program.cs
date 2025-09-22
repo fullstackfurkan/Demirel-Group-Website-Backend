@@ -47,6 +47,7 @@ namespace backend
 
             app.UseAuthorization();
 
+            app.UseStaticFiles();
 
             app.MapControllers();
 
