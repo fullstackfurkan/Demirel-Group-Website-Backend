@@ -9,10 +9,9 @@ namespace backend.Models
         public DateTime EndDate { get; set; }
         public string Area {  get; set; } = string.Empty;
         public string ApartmentType {  get; set; } = string.Empty;
-        public int NumberOfApartment { get; set; }
-        public int NumberOfStore { get; set; }
         public string ContactNumber { get; set; } = string.Empty;
         public string Details {  get; set; } = string.Empty;
+        public string Location {  get; set; } = string.Empty;
 
         public List<ProjectPhoto> Photos { get; set; } = [];
     }
