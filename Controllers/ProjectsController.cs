@@ -1,6 +1,7 @@
 ﻿using backend.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Globalization;
 
 namespace backend.Controllers
 {
@@ -20,6 +21,21 @@ namespace backend.Controllers
         {
             var projects = await _dbContext.Projects
                 .Include(p => p.Photos)
+                .Select(p => new
+                {
+                    p.Id,
+                    p.Title,
+                    p.Category,
+                    StartDate = p.StartDate.ToString("yyyy-MM-dd"),
+                    EndDate = p.EndDate.ToString("yyyy-MM-dd"),
+                    p.Area,
+                    p.ApartmentType,
+                    p.ContactNumber,
+                    p.Details,
+                    p.Location,
+                    p.MapEmbedUrl,
+                    p.Photos
+                })
                 .ToListAsync();
 
             return Ok(projects);
@@ -30,6 +46,21 @@ namespace backend.Controllers
         {
             var project = await _dbContext.Projects
                 .Include(p => p.Photos)
+                .Select(p => new
+                {
+                    p.Id,
+                    p.Title,
+                    p.Category,
+                    StartDate = p.StartDate.ToString("dd MMM yyyy", new CultureInfo("tr-TR")),
+                    EndDate = p.EndDate.ToString("dd MMM yyyy", new CultureInfo("tr-TR")),
+                    p.Area,
+                    p.ApartmentType,
+                    p.ContactNumber,
+                    p.Details,
+                    p.Location,
+                    p.MapEmbedUrl,
+                    p.Photos
+                })
                 .FirstOrDefaultAsync(p => p.Id == id);
 
             if (project == null)

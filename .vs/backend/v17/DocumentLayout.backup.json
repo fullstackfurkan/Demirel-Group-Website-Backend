@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\wwwroot\\uploads\\projectphotos\\project-1\\photo-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:wwwroot\\uploads\\projectphotos\\project-1\\photo-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\data\\demirelgroupdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,18 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\controllers\\companyinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:controllers\\companyinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\models\\companyinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:models\\companyinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\models\\projectphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:models\\projectphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,36 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "photo-1.jpg -  [English (United States)] - Bitmap [6300x4725, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\wwwroot\\uploads\\ProjectPhotos\\project-1\\photo-1.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\uploads\\ProjectPhotos\\project-1\\photo-1.jpg",
-              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\wwwroot\\uploads\\ProjectPhotos\\project-1\\photo-1.jpg -  [English (United States)] - Bitmap [6300x4725, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\uploads\\ProjectPhotos\\project-1\\photo-1.jpg -  [English (United States)] - Bitmap [6300x4725, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-09-27T08:38:56.197Z",
-              "EditorCaption": " -  [English (United States)] - Bitmap [6300x4725, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProjectsController.cs",
               "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProjectsController.cs",
               "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Controllers\\ProjectsController.cs",
               "RelativeToolTip": "Controllers\\ProjectsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T14:04:35.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DemirelGroupDBContext.cs",
               "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Data\\DemirelGroupDBContext.cs",
               "RelativeDocumentMoniker": "Data\\DemirelGroupDBContext.cs",
@@ -83,11 +55,12 @@
               "RelativeToolTip": "Data\\DemirelGroupDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T13:55:52.594Z"
+              "WhenOpened": "2025-09-19T13:55:52.594Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -95,24 +68,12 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T13:58:28.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "Models\\Project.cs",
-              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Models\\Project.cs",
-              "RelativeToolTip": "Models\\Project.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T13:45:46.64Z",
+              "WhenOpened": "2025-09-19T13:58:28.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "CompanyInformationController.cs",
               "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Controllers\\CompanyInformationController.cs",
               "RelativeDocumentMoniker": "Controllers\\CompanyInformationController.cs",
@@ -120,43 +81,42 @@
               "RelativeToolTip": "Controllers\\CompanyInformationController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T12:21:00.311Z"
-            },
+              "WhenOpened": "2025-09-21T12:21:00.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "35768116-19ac-4b25-a566-c51c7c6a3355",
+        "Display": 1,
+        "X": -5,
+        "Y": 101,
+        "Width": 1289,
+        "Height": 544,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-19T13:54:39.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CompanyInformation.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Models\\CompanyInformation.cs",
-              "RelativeDocumentMoniker": "Models\\CompanyInformation.cs",
-              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Models\\CompanyInformation.cs",
-              "RelativeToolTip": "Models\\CompanyInformation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T12:08:09.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProjectPhoto.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Models\\ProjectPhoto.cs",
-              "RelativeDocumentMoniker": "Models\\ProjectPhoto.cs",
-              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Models\\ProjectPhoto.cs",
-              "RelativeToolTip": "Models\\ProjectPhoto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T13:47:05.069Z"
+              "WhenOpened": "2025-09-19T13:45:46.64Z",
+              "EditorCaption": ""
             }
           ]
         }

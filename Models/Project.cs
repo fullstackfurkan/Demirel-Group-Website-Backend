@@ -12,6 +12,7 @@ namespace backend.Models
         public string ContactNumber { get; set; } = string.Empty;
         public string Details {  get; set; } = string.Empty;
         public string Location {  get; set; } = string.Empty;
+        public string MapEmbedUrl { get; set; } = string.Empty;
 
         public List<ProjectPhoto> Photos { get; set; } = [];
     }
