@@ -8,7 +8,6 @@ namespace backend.Data
         public DemirelGroupDBContext(DbContextOptions<DemirelGroupDBContext> options) : base(options) { }
 
         public DbSet<Project> Projects { get; set; }
-        public DbSet<ProjectPhoto> ProjectPhotos { get; set; }
         public DbSet<CompanyInformation> CompanyInformation { get; set; }
     }
 }

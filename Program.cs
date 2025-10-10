@@ -17,9 +17,9 @@ namespace backend
 
             builder.Services.AddCors(options =>
             {
-                options.AddDefaultPolicy(policy =>
+                options.AddPolicy("AllowFrontend",policy =>
                 {
-                    policy.WithOrigins("http://localhost:3000")
+                    policy.WithOrigins("http://localhost:3000", "https://demirellergroup.com.tr")
                         .AllowAnyHeader()
                         .AllowAnyMethod();
                 });
@@ -41,7 +41,7 @@ namespace backend
                 app.UseSwaggerUI();
             }
 
-            app.UseCors();
+            app.UseCors("AllowFrontend");
 
             app.UseHttpsRedirection();
 

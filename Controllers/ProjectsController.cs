@@ -20,7 +20,6 @@ namespace backend.Controllers
         public async Task<IActionResult> GetAll()
         {
             var projects = await _dbContext.Projects
-                .Include(p => p.Photos)
                 .Select(p => new
                 {
                     p.Id,
@@ -34,7 +33,6 @@ namespace backend.Controllers
                     p.Details,
                     p.Location,
                     p.MapEmbedUrl,
-                    p.Photos
                 })
                 .ToListAsync();
 
@@ -45,7 +43,6 @@ namespace backend.Controllers
         public async Task<IActionResult> GetById(int id)
         {
             var project = await _dbContext.Projects
-                .Include(p => p.Photos)
                 .Select(p => new
                 {
                     p.Id,
@@ -59,7 +56,6 @@ namespace backend.Controllers
                     p.Details,
                     p.Location,
                     p.MapEmbedUrl,
-                    p.Photos
                 })
                 .FirstOrDefaultAsync(p => p.Id == id);
 
