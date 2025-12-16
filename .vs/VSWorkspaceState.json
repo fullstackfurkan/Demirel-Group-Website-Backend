@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Data",
+    "\\Models",
+    "\\Properties",
+    "\\wwwroot"
   ],
   "SelectedNode": "\\backend.sln",
   "PreviewInSolutionExplorer": false
