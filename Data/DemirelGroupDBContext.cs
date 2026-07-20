@@ -1,4 +1,4 @@
-﻿using backend.Models;
+using backend.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace backend.Data
@@ -10,5 +10,6 @@ namespace backend.Data
         public DbSet<Project> Projects { get; set; }
         public DbSet<CompanyInformation> CompanyInformation { get; set; }
         public DbSet<ProjectPhotos> ProjectPhotos { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

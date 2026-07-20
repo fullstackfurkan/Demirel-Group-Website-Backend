@@ -1,41 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\",
+  "WorkspaceRootPath": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\controllers\\companyinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:controllers\\companyinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|d:\\furkan\\ki\u015Fisel projeler\\demirel-group-website-backend\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\data\\demirelgroupdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:data\\demirelgroupdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|d:\\furkan\\ki\u015Fisel projeler\\demirel-group-website-backend\\controllers\\companyinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:controllers\\companyinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\models\\companyinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:models\\companyinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|d:\\furkan\\ki\u015Fisel projeler\\demirel-group-website-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|d:\\furkan\\ki\u015Fisel projeler\\demirel-group-website-backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|d:\\furkan\\ki\u015Fisel projeler\\demirel-group-website-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|d:\\furkan\\ki\u015Fisel projeler\\demirel-group-website-backend\\data\\demirelgroupdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:data\\demirelgroupdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|d:\\furkan\\ki\u015Fisel projeler\\demirel-group-website-backend\\models\\companyinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:models\\companyinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|d:\\furkan\\ki\u015Fisel projeler\\demirel-group-website-backend\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|d:\\furkan\\ki\u015Fisel projeler\\demirel-group-website-backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|c:\\users\\furka\\demirelgroupbuildingwebsite_backend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|d:\\furkan\\ki\u015Fisel projeler\\demirel-group-website-backend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{EBD8D2D3-85FB-4543-8189-CE71D9436E4B}|backend.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
@@ -46,117 +50,130 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T15:16:23.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CompanyInformation.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Models\\CompanyInformation.cs",
+              "DocumentMoniker": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\Models\\CompanyInformation.cs",
               "RelativeDocumentMoniker": "Models\\CompanyInformation.cs",
-              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Models\\CompanyInformation.cs",
+              "ToolTip": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\Models\\CompanyInformation.cs",
               "RelativeToolTip": "Models\\CompanyInformation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T19:45:31.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T19:45:31.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Models\\Project.cs",
+              "DocumentMoniker": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\Models\\Project.cs",
               "RelativeDocumentMoniker": "Models\\Project.cs",
-              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Models\\Project.cs",
+              "ToolTip": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\Models\\Project.cs",
               "RelativeToolTip": "Models\\Project.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T19:45:26.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T19:45:26.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProjectsController.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Controllers\\ProjectsController.cs",
+              "DocumentMoniker": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProjectsController.cs",
-              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Controllers\\ProjectsController.cs",
+              "ToolTip": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\Controllers\\ProjectsController.cs",
               "RelativeToolTip": "Controllers\\ProjectsController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAcwCIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T14:04:35.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DemirelGroupDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Data\\DemirelGroupDBContext.cs",
+              "DocumentMoniker": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\Data\\DemirelGroupDBContext.cs",
               "RelativeDocumentMoniker": "Data\\DemirelGroupDBContext.cs",
-              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Data\\DemirelGroupDBContext.cs",
+              "ToolTip": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\Data\\DemirelGroupDBContext.cs",
               "RelativeToolTip": "Data\\DemirelGroupDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T13:55:52.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T13:55:52.594Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CompanyInformationController.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Controllers\\CompanyInformationController.cs",
+              "DocumentMoniker": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\Controllers\\CompanyInformationController.cs",
               "RelativeDocumentMoniker": "Controllers\\CompanyInformationController.cs",
-              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Controllers\\CompanyInformationController.cs",
+              "ToolTip": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\Controllers\\CompanyInformationController.cs",
               "RelativeToolTip": "Controllers\\CompanyInformationController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T12:21:00.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Program.cs",
+              "DocumentMoniker": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\Program.cs",
+              "ToolTip": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T13:58:28.334Z",
+              "WhenOpened": "2025-09-19T13:58:28.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T18:40:52.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-30T18:40:52.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\.gitignore",
+              "DocumentMoniker": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\.gitignore",
+              "ToolTip": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\.gitignore",
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
               "WhenOpened": "2025-09-30T19:02:19.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "backend.csproj",
-              "DocumentMoniker": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\backend.csproj",
+              "DocumentMoniker": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\backend.csproj",
               "RelativeDocumentMoniker": "backend.csproj",
-              "ToolTip": "C:\\Users\\furka\\DemirelGroupBuildingWebSite_backend\\backend.csproj",
+              "ToolTip": "D:\\Furkan\\Ki\u015Fisel Projeler\\Demirel-Group-Website-Backend\\backend.csproj",
               "RelativeToolTip": "backend.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
