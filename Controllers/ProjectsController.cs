@@ -120,7 +120,8 @@ namespace backend.Controllers
 
             if (dto.NewPhotos != null && dto.NewPhotos.Count > 0)
             {
-                var uploadsFolder = Path.Combine(_env.WebRootPath, "uploads", "ProjectPhotos");
+                var webRoot = _env.WebRootPath ?? Path.Combine(Directory.GetCurrentDirectory(), "wwwroot");
+                var uploadsFolder = Path.Combine(webRoot, "uploads", "ProjectPhotos");
                 if (!Directory.Exists(uploadsFolder)) Directory.CreateDirectory(uploadsFolder);
 
                 foreach (var file in dto.NewPhotos)
@@ -171,7 +172,8 @@ namespace backend.Controllers
                 var photosToDelete = project.Photos.Where(p => dto.DeletedPhotoIds.Contains(p.Id)).ToList();
                 foreach (var photo in photosToDelete)
                 {
-                    var fullPath = Path.Combine(_env.WebRootPath, photo.PhotoUrl.TrimStart('/'));
+                    var webRoot = _env.WebRootPath ?? Path.Combine(Directory.GetCurrentDirectory(), "wwwroot");
+                    var fullPath = Path.Combine(webRoot, photo.PhotoUrl.TrimStart('/'));
                     if (System.IO.File.Exists(fullPath)) System.IO.File.Delete(fullPath);
                     project.Photos.Remove(photo);
                 }
@@ -180,7 +182,8 @@ namespace backend.Controllers
             // Yeni fotoğraflar ekle
             if (dto.NewPhotos != null && dto.NewPhotos.Any())
             {
-                var uploadsFolder = Path.Combine(_env.WebRootPath, "uploads", "ProjectPhotos");
+                var webRoot = _env.WebRootPath ?? Path.Combine(Directory.GetCurrentDirectory(), "wwwroot");
+                var uploadsFolder = Path.Combine(webRoot, "uploads", "ProjectPhotos");
                 if (!Directory.Exists(uploadsFolder)) Directory.CreateDirectory(uploadsFolder);
 
                 foreach (var file in dto.NewPhotos)
@@ -214,7 +217,8 @@ namespace backend.Controllers
 
             foreach (var photo in project.Photos)
             {
-                var fullPath = Path.Combine(_env.WebRootPath, photo.PhotoUrl.TrimStart('/'));
+                var webRoot = _env.WebRootPath ?? Path.Combine(Directory.GetCurrentDirectory(), "wwwroot");
+                var fullPath = Path.Combine(webRoot, photo.PhotoUrl.TrimStart('/'));
                 if (System.IO.File.Exists(fullPath)) System.IO.File.Delete(fullPath);
             }
 
