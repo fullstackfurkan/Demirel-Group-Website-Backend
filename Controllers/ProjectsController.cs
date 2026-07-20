@@ -25,7 +25,7 @@ namespace backend.Controllers
         {
             try
             {
-                string baseUrl = "https://api.demirellergroup.com.tr";
+                string baseUrl = $"{Request.Scheme}://{Request.Host}{Request.PathBase}";
 
                 var projects = await _dbContext.Projects
                     .Select(p => new
@@ -64,7 +64,7 @@ namespace backend.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
-            string baseUrl = "https://api.demirellergroup.com.tr";
+            string baseUrl = $"{Request.Scheme}://{Request.Host}{Request.PathBase}";
 
             var project = await _dbContext.Projects
                 .Where(p => p.Id == id)
